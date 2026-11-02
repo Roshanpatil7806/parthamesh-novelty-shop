@@ -269,9 +269,9 @@ function App() {
             our collection in person.
           </p>
           <p className="contact-reminder">
-            Contact : 8767705424<br />
-            Address : Ground Floor, Parthamesh Complex, Near bank, <br />
-            Main Road, Sarawade, Radhangari - 416211
+            Contact : 9763579891<br />
+            Address : Ground Floor, opposite to  bank, <br />
+            Main Road, Sarawade, Radhangari - 416212
             
           </p>
         </section>
@@ -283,13 +283,7 @@ function App() {
           <small>NOVELTY SHOP</small>
         </a>
         <p>School essentials, beauty, accessories and gifts — all in one place.</p>
-        <div className="footer-links">
-          <a href="#home">Home</a>
-          <a href="#categories">Categories</a>
-          <a href="#products">Products</a>
-          <a href="#about">About</a>
-          <a href="#contact">Contact</a>
-        </div>
+
         <small>© {new Date().getFullYear()} Parthamesh Novelty Shop. All rights reserved.</small>
       </footer>
     </div>

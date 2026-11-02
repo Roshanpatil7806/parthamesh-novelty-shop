@@ -33,12 +33,12 @@ html {
   color: #6134b4;
   font-weight: 900;
   letter-spacing: 2px;
-  font-size: 19px;
+  font-size: 30px;
 }
 
 .logo small {
   color: #ed895c;
-  font-size: 9px;
+  font-size: 20px;
   letter-spacing: 3px;
   margin-top: 3px;
 }
@@ -440,8 +440,9 @@ html {
 .footer {
   background: #241c30;
   color: white;
-  padding: 45px 8% 25px;
+  padding: 40px 8% 25px;
   text-align: center;
+  
 }
 
 .footer-logo {
