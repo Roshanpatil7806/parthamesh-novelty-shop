@@ -270,13 +270,13 @@ function App() {
           </p>
           <p className="contact-reminder">
             Contact : 9763579891<br />
-            Address : Ground Floor, opposite to  bank, <br />
+            Address : Ground Floor, opposite to Whapari patha Sawastha , <br />
             Main Road, Sarawade, Radhangari - 416212
             
           </p>
         </section>
       </main>
-
+ 
       <footer className="footer">
         <a className="logo footer-logo" href="#home">
           <span>PARTHAMESH</span>
